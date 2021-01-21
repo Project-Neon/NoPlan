@@ -19,7 +19,7 @@
     "require-smart": "^1.1.1",
     "serialport": "^6.1.1",
     "serve-favicon": "^2.4.5",
-    "socket.io": "^2.1.1",
+    "socket.io": "^2.4.0",
     "ssl-vision": "^1.0.2"
   },
   "devDependencies": {
